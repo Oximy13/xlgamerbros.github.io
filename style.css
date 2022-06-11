@@ -1,0 +1,19 @@
+* {
+  background-color: #0e1111;
+}
+
+h2 {
+  color: white;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  text-align: center;
+}
+
+iframe {
+  margin-left: 757px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
